@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋 I'm Görkem
 
-<!--
-**GorkemCinar389/GorkemCinar389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer focused on **.NET technologies** and **Blazor**.  
+I enjoy building clean, maintainable applications and working on real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Backend:** C#, .NET, ASP.NET Core
+- **Frontend:** Blazor
+- **Database:** SQL Server
+- **Tools:** Git, GitHub, Visual Studio
+
+---
+
+### 💼 What I'm working on
+- Building applications with **Blazor** and **.NET**
+- Improving my skills in **clean architecture** and **best practices**
+- Working on real-world business-oriented projects
+
+---
+
+### 📌 Interests
+- Software architecture
+- Backend development
+- Writing clean and readable code
+
+---
+
+### 📫 Contact
+- LinkedIn: *(add later)*
+- GitHub: You're already here 🙂
