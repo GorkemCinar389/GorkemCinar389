@@ -31,5 +31,6 @@ I enjoy building clean, maintainable applications and working on real-world prob
 ---
 
 ### 📫 Contact
-- LinkedIn: *www.linkedin.com/in/gorkem-cinar*
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/gorkem-cinar)
 - GitHub: You're already here 🙂
