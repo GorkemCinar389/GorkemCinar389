@@ -31,5 +31,5 @@ I enjoy building clean, maintainable applications and working on real-world prob
 ---
 
 ### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7%C4%B1nar-0975971b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7%C4%B1nar-0975971b3/)
 - GitHub: You're already here 🙂
