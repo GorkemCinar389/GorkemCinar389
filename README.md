@@ -6,23 +6,26 @@ I enjoy building clean, maintainable applications and working on real-world prob
 ---
 
 ### 🚀 Tech Stack
-- **Backend:** C#, .NET, ASP.NET Core
+- **Backend:** C#, .NET, ASP.NET Core (Web API)
 - **Frontend:** Blazor
-- **Database:** SQL Server
+- **Database:** MS SQL Server
+- **API:** RESTful APIs (consume & build)
 - **Tools:** Git, GitHub, Visual Studio
-
+- 
 ---
 
 ### 💼 What I'm working on
-- Building applications with **Blazor** and **.NET**
-- Improving my skills in **clean architecture** and **best practices**
-- Working on real-world business-oriented projects
+- Developing **RESTful APIs** with ASP.NET Core
+- Consuming external APIs using **C#**
+- Working with **MS SQL Server** for data-driven applications
+- Building business-oriented applications with **Blazor**
 
 ---
 
 ### 📌 Interests
-- Software architecture
 - Backend development
+- Software architecture
+- Data-driven applications
 - Writing clean and readable code
 
 ---
